@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Set up page configuration
-st.set_page_config(page_title="Officer ID Checker", page_icon="🔍", layout="centered")
+st.set_page_config(page_title="ID Checker", page_icon="🔍", layout="centered")
 
 st.title("📋 ID Finder")
 st.write("Enter ID below")
